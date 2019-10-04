@@ -31,12 +31,17 @@ li{
     text-transform: uppercase;
 }
 
+td{
+    width: 30%;
+    margin: 1.66%;
+    padding: 0;
+    overflow: hidden;
+}
+
 img{
     float: left;
-    width: 390px;
-    margin: 2.88%;
-    height: 390px;
-    object-fit: cover;
+    width: 100%;
+    overflow: hidden;
 }
 
 #welcome{
@@ -58,8 +63,7 @@ img{
 
 :target {
   display: block;
-  float: relative;
-  top: -125px; 
+  position: relative; 
   visibility: visible;
 }
 

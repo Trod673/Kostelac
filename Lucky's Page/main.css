@@ -1,0 +1,66 @@
+h1{
+    text-transform: capitalize;
+    color: navy;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    color: navy;
+    background-color: dodgerblue;
+    text-transform: uppercase;
+    width: 30%;
+    margin: 0 auto;
+}
+
+p{
+    text-align: center;
+    width: 60%;
+    padding: 10px;
+    margin: 0 auto
+}
+
+ul{
+    list-style-type: none;
+    font-family:monospace;
+    text-align: center;
+}
+
+li{
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+img{
+    float: left;
+    width: 390px;
+    margin: 2.88%;
+    height: 390px;
+    object-fit: cover;
+}
+
+#welcome{
+    position: fixed;
+    background-color: dodgerblue;   
+    z-index: 10;
+    width: 100%;
+    height: 125px;
+    top: 0;   
+}
+
+
+#content{
+    position: relative;
+    top: 132px;
+    height: 80%%
+    width: 80%
+}
+
+:target {
+  display: block;
+  float: relative;
+  top: -125px; 
+  visibility: visible;
+}
+
+

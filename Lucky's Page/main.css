@@ -24,11 +24,15 @@ ul{
     list-style-type: none;
     font-family:monospace;
     text-align: center;
+    margin: 0;
+    display: block;
+    padding: 0;
 }
 
 li{
-    display: inline-block;
     text-transform: uppercase;
+    margin: 0;
+    display: block;
 }
 
 td{
@@ -61,10 +65,5 @@ img{
     width: 80%
 }
 
-:target {
-  display: block;
-  position: relative; 
-  visibility: visible;
-}
 
 

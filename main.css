@@ -1,3 +1,13 @@
+p{
+	position: relative;
+	text-align: center;
+	top: 20px;
+}
+.content{
+	position: relative;
+	margin-left: 150px;
+}
+
 ul{
 	list-style-type: none;
 	margin: 0 auto;
@@ -39,4 +49,9 @@ img{
 	text-align: center;
 	background-color: lightgray;
 	padding-top: 2px;
+}
+
+.vow{
+	text-align: center;
+	line-height: 2;
 }

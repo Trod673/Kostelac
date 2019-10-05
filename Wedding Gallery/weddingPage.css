@@ -1,10 +1,23 @@
+*{
+	font-family: Garamond;
+	text-transform: uppercase;
+
+}
+
 img{
 	width: 100%; 
 }
 
 h1{
+	margin: 0%;
+	width: 350px;
+	margin-bottom: 0;
+}
+
+.return{
 	font-family: Garamond;
-	margin: 1.66%;
+	font-size: 14pt;
+	margin-left: 70px;
 	width: 350px;
 	text-transform: uppercase;
 }
@@ -21,4 +34,14 @@ div{
 body{
 	width: 80%;
 	margin: 0 auto;
+}
+
+.help{
+	margin-top: -150px;
+}
+
+.special{
+	width: 100%;
+	margin: 0 auto;
+	height: auto;
 }

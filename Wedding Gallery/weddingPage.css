@@ -24,16 +24,10 @@ h1{
 
 div{
 	overflow: hidden;
-	height: 200px;
-	width: 300px;
-	margin: 1.45%;
-	display: inline-block;
 	
 }
 
-body{
-	width: 80%;
-	margin: 0 auto;
+
 }
 
 .help{
@@ -42,6 +36,14 @@ body{
 
 .special{
 	width: 1000px;
-	margin: 0 auto;
+	margin: auto;
 	height: auto;
+}
+
+.row{
+	padding: 20px;
+}
+
+#roww{
+	max-height: 200px;
 }

@@ -5,7 +5,8 @@
 }
 
 img{
-	width: 100%; 
+	width: 100%;
+	position: relative; 
 }
 
 h1{
@@ -27,24 +28,18 @@ div{
 }
 
 
-}
 
 .help{
-	margin-top: -150px;
-}
-
-.special{
-	width: 1000px;
-	margin: auto;
-	height: auto;
+	margin-top: -155px;
 }
 
 .row{
-	padding: 20px;
+	padding-bottom: 20px;
 }
 
 .pic{
 	width: 300px;
-	height: 200px;
-	padding: 20px;
+	min-height: : 200px;
+	max-height: 200px;
+	margin: 10px 0;
 }

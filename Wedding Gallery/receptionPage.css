@@ -53,3 +53,7 @@ div{
 .col-xs-12{
 	max-height: 650px;
 }
+
+a{
+	color: black;
+}

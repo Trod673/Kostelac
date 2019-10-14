@@ -43,3 +43,7 @@ div{
 	max-height: 200px;
 	margin: 10px 0;
 }
+
+nav > div{
+	overflow: visible;
+}

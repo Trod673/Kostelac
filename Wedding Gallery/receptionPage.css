@@ -1,0 +1,55 @@
+
+body{
+	text-transform: uppercase;
+	font-family: Garamond;
+}
+
+img{
+	width: 100%;
+	position: relative; 
+}
+
+h1{
+	margin: 0%;
+}
+
+.return{
+	font-family: Garamond;
+	font-size: 14pt;
+	margin-left: 70px;
+	width: 350px;
+	text-transform: uppercase;
+}
+
+nav > div{
+	overflow: visible;
+}
+
+div{
+	overflow: hidden;
+}
+
+
+
+.help{
+	margin-top: -75px;
+}
+
+.help2{
+	margin-top: -250px;
+}
+
+.row{
+	padding-bottom: 20px;
+}
+
+.pic{
+	width: 300px;
+	min-height: : 200px;
+	max-height: 200px;
+	margin: 10px 0;
+}
+
+.col-xs-12{
+	max-height: 650px;
+}

@@ -3,25 +3,12 @@ p{
 	text-align: center;
 	top: 20px;
 }
-.content{
-	position: relative;
-	margin-left: 150px;
-}
 
 ul{
 	list-style-type: none;
-	margin: 0 auto;
 	padding: 18px;
 }
 
-nav{
-	position: fixed;
-	width: 150px;
-	height: 100%;
-	background-color: lightgray;
-	text-align: center;
-	z-index: 10;
-}
 
 .fancy{
 	font-size: 50pt;
@@ -32,11 +19,13 @@ nav{
 	background-color: gray;
 }
 
+nav{
+	text-align: center;
+}
 
 img{
 	position: relative;
 	width: 100%;
-	padding-left: 150px;
 	top: 0px;
 }
 
@@ -45,7 +34,7 @@ img{
 	position: relative;
 	margin: 0 auto;
 	width: 100%;
-	height: 35px;
+	height: 50px;
 	text-align: center;
 	background-color: lightgray;
 	padding-top: 2px;

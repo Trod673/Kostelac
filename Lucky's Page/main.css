@@ -20,21 +20,6 @@ p{
     margin: 0 auto
 }
 
-ul{
-    list-style-type: none;
-    font-family:monospace;
-    text-align: center;
-    margin: 0;
-    display: block;
-    padding: 0;
-}
-
-li{
-    text-transform: uppercase;
-    margin: 0;
-    display: block;
-}
-
 td{
     width: 30%;
     margin: 1.66%;
@@ -60,7 +45,7 @@ img{
 
 #content{
     position: relative;
-    top: 132px;
+    top: 10px;
     height: 80%%
     width: 80%
 }

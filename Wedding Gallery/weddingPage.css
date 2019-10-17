@@ -4,9 +4,8 @@
 
 }
 
-img{
+.container > div > div > a > img{
 	width: 100%;
-	position: relative; 
 }
 
 h1{
@@ -50,4 +49,15 @@ nav > div{
 
 a{
 	color: black;
+}
+
+.carousel-item{
+	background-color: black;
+	max-width: 1200px;
+	overflow: visible;
+}
+
+.carousel-item > img{
+	width: 100%;
+	margin: 0 auto;
 }

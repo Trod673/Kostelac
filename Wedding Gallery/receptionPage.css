@@ -29,6 +29,9 @@ div{
 	overflow: hidden;
 }
 
+.container > div > div > a > img{
+	width: 100%;
+}
 
 
 .help{
